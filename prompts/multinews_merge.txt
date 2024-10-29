@@ -1,0 +1,5 @@
+Below are several summaries:
+---
+[SUMMARIES]
+---
+Create one comprehensive summary by recursively merging summaries of its chunks. Despite this recursive merging process, you need to create a summary that seems as though it is written in one go. The summary must be within 10 sentences. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.

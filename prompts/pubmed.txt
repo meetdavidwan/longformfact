@@ -1,0 +1,4 @@
+Read the following scientific paper. Produce a summary in 7 sentences. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.
+==========
+[ARTICLES]
+==========

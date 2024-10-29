@@ -1,0 +1,4 @@
+Read the following news article. Produce a summary. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.
+==========
+[ARTICLES]
+==========

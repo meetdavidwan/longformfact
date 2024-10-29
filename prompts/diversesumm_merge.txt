@@ -1,0 +1,5 @@
+Below are several summaries:
+---
+[SUMMARIES]
+---
+Create one comprehensive summary by recursively merging summaries of its chunks. Despite this recursive merging process, you need to create a summary that seems as though it is written in one go. Produce a summary that only covers the diverse and conflicting information across the following articles, without discussing the information all articles agree upon. Elaborate when you summarize diverse or conflicting information by stating what information different sources cover and how is the information diverse or conflicting. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.

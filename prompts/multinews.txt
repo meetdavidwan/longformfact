@@ -1,0 +1,4 @@
+Read the following news articles. Produce a summary in 10 sentences. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.
+==========
+[ARTICLES]
+==========

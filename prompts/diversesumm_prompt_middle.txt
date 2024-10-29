@@ -1,0 +1,6 @@
+Read the following news articles. Produce a summary that only covers the diverse and conflicting information across the following articles, without discussing the information all articles agree upon. Elaborate when you summarize diverse or conflicting information by stating what information different sources cover and how is the information diverse or conflicting. You must give your in a structured format: '''Summary: [your summary]''', where [your summary] is your generated summary.
+==========
+[ARTICLES]
+==========
+Remember, your output should be a summary that discusses and elaborates the diverse and conflicting information presented across the articles. You need to elaborate on the differences rather than only mentioning which topic they differ. Don't worry about the summary being too lengthy.
+Pay special attention to the articles in the middle.
